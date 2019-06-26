@@ -19,3 +19,4 @@ mybatis plus 生成器
     pc.setController("consumer.controller");
     mpg.setPackageInfo(pc);
   4.运行main方法 ，输入表名称，回车，就会在项目的根目录下生成一个src文件夹。 <br/>
+
